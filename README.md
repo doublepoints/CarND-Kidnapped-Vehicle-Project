@@ -136,7 +136,7 @@ The things the grading code is looking for are:
 2. **Performance**: your particle filter should complete execution within the time of 100 seconds.
 
 ## Result
-The result figure is shown below:![](doublepoints/CarND-Kidnapped-Vehicle-Project/Result/result.jpg) 
+The result figure is shown below:![](https://github.com/doublepoints/CarND-Kidnapped-Vehicle-Project/Result/result.jpg) 
 
 
 
